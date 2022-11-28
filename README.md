@@ -1,6 +1,6 @@
 Rick and Morty
 
-(https://github.com/mbarreto1988/App-Rick-and-Morty---REACT/blob/main/public/Rick%20And%20Morty.jpeg)
+(https://github.com/mbarreto1988/App-Rick-and-Morty---REACT/blob/main/public/RickAndMorty.png)
 
 # Getting Started with Create React App
 
